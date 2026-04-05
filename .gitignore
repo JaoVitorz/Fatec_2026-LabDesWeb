@@ -1,0 +1,30 @@
+node_modules
+
+# Build outputs
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+
+# Temporary files
+*.swp
+*.tmp
+
+# TypeScript build info
+*.tsbuildinfo
